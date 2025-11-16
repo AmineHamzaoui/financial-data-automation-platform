@@ -189,7 +189,4 @@ No broken merges
 
 Everything is fully automated.
 
----
-
-## 6. Images & Architecture References
 
