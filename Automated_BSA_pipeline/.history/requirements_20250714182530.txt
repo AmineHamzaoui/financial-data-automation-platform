@@ -1,3 +1,0 @@
-smartmoneyconcepts
-yfinance
-TA-Lib  
