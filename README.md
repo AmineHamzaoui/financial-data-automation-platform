@@ -184,7 +184,14 @@ No broken merges
 
 ### ✔ Enterprise Reliability  
 - ETL via SSIS  
-- Scheduling via SQL Server Agent + Cron  
+- Scheduling via SQL Server Agent + Cron
+
+---
+
+## 📝 License  
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+
+Released under the MIT License. See the [LICENSE](LICENSE) file for more information.
 - Reporting via Power BI Gateway  
 
 Everything is fully automated.
